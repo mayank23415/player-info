@@ -14,10 +14,7 @@
         android:theme="@style/Theme.AllInOne"
         tools:targetApi="31">
         <activity
-            android:name=".RecyclerView"
-            android:exported="false" />
-        <activity
-            android:name=".FormFIlling"
+            android:name=".RecyclerVIew"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
